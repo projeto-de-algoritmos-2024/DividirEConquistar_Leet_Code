@@ -1,45 +1,75 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
+**Número da Lista**: 4<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
  
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
-
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0030801  | João Pedro Costa |
+| 20/2028973  | Tiago Albuquerque de Lima |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório tem como objetivo a resolução de exercícios sobre algoritmos ambiciosos do [LeetCode](https://leetcode.com/), utilizando o conteúdo do quarto módulo Dividir e Conquistar.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercício 1 - [NOME DO PROBLEMA DO SITE](LINK PARA O PROBLEMA NO SITE)
+
+Dificuldade: Difícil<br>
+Problema: [NOME DO PROBLEMA](PROBLEMA NO GIT)<br>
+Codigo: [Solução](CODIGO DO GIT)<br>
+![image](IMAGEM MOSTRANDO RESOLVIDO)
+<br>
+
+### Exercício 2 - [NOME DO PROBLEMA DO SITE](LINK PARA O PROBLEMA NO SITE)
+
+Dificuldade: Difícil<br>
+Problema: [NOME DO PROBLEMA](PROBLEMA NO GIT)<br>
+Codigo: [Solução](CODIGO DO GIT)<br>
+![image](IMAGEM MOSTRANDO RESOLVIDO)
+<br>
+
+### Exercício 3 - [NOME DO PROBLEMA DO SITE](LINK PARA O PROBLEMA NO SITE)
+
+Dificuldade: Médio<br>
+Problema: [NOME DO PROBLEMA](PROBLEMA NO GIT)<br>
+Codigo: [Solução](CODIGO DO GIT)<br>
+![image](IMAGEM MOSTRANDO RESOLVIDO)
+<br>
+
+### Exercício 4 - [NOME DO PROBLEMA DO SITE](LINK PARA O PROBLEMA NO SITE)
+
+Dificuldade: Médio<br>
+Problema: [NOME DO PROBLEMA](PROBLEMA NO GIT)<br>
+Codigo: [Solução](CODIGO DO GIT)<br>
+![image](IMAGEM MOSTRANDO RESOLVIDO)
+<br>
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+- O codigo deve ser executado no site do LeetCode em uma classe Solution.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+- 1°: Copiar o codigo do arquivo ```.py```.
+ 
+- 2°: Entrar no site do LeetCode.
+ 
+- 3°: Criar uma conta no LeetCode.
+ 
+- 4°: Entrar no link dos exercicios.
+ 
+- 5°: Alterar a linguagem para ```Python3```.
+ 
+- 6°: Colar o codigo no painel.
+ 
+- 7°: Clicar em ```Run```.
+ 
+- 8°: Obter e Verificar resultado dos codigos.
+
+**Obs.:** Faça isso para cada codigo.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+**Apresentação da resolução dos exercícios:**
 
 
 
