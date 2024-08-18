@@ -13,10 +13,10 @@
 Este repositório tem como objetivo a resolução de exercícios sobre algoritmos ambiciosos do [LeetCode](https://leetcode.com/), utilizando o conteúdo do quarto módulo Dividir e Conquistar.
 
 ## Screenshots
-### Exercício 1 - [NOME DO PROBLEMA DO SITE](LINK PARA O PROBLEMA NO SITE)
+### Exercício 1 - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 
 Dificuldade: Difícil<br>
-Problema: [NOME DO PROBLEMA](PROBLEMA NO GIT)<br>
+Problema: [Reverse Pairs](PROBLEMA NO GIT)<br>
 Codigo: [Solução](CODIGO DO GIT)<br>
 ![image](IMAGEM MOSTRANDO RESOLVIDO)
 <br>
