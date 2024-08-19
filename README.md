@@ -21,10 +21,10 @@ Codigo: [Solução](CODIGO DO GIT)<br>
 ![image](IMAGEM MOSTRANDO RESOLVIDO)
 <br>
 
-### Exercício 2 - [NOME DO PROBLEMA DO SITE](LINK PARA O PROBLEMA NO SITE)
+### Exercício 2 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 
 Dificuldade: Difícil<br>
-Problema: [NOME DO PROBLEMA](PROBLEMA NO GIT)<br>
+Problema: [Merge k Sorted Lists](PROBLEMA NO GIT)<br>
 Codigo: [Solução](CODIGO DO GIT)<br>
 ![image](IMAGEM MOSTRANDO RESOLVIDO)
 <br>
