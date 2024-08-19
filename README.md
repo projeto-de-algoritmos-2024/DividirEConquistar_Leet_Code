@@ -16,9 +16,9 @@ Este repositório tem como objetivo a resolução de exercícios sobre algoritmo
 ### Exercício 1 - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 
 Dificuldade: Difícil<br>
-Problema: [Reverse Pairs](PROBLEMA NO GIT)<br>
-Codigo: [Solução](CODIGO DO GIT)<br>
-![image](IMAGEM MOSTRANDO RESOLVIDO)
+Problema: [Reverse Pairs](https://github.com/projeto-de-algoritmos-2024/DividirEConquistar_Leet_Code/blob/8ca33f69c56bd3fc215360b843df657df95ec30e/Reverse_Pairs/Reverse_Pairs.md)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/DividirEConquistar_Leet_Code/blob/8ca33f69c56bd3fc215360b843df657df95ec30e/Reverse_Pairs/Reverse_Pairs.py)<br>
+![image](https://github.com/projeto-de-algoritmos-2024/DividirEConquistar_Leet_Code/blob/8ca33f69c56bd3fc215360b843df657df95ec30e/Assets/Media-1.png)
 <br>
 
 ### Exercício 2 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
