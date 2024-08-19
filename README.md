@@ -29,22 +29,6 @@ Codigo: [Solução](CODIGO DO GIT)<br>
 ![image](IMAGEM MOSTRANDO RESOLVIDO)
 <br>
 
-### Exercício 3 - [NOME DO PROBLEMA DO SITE](LINK PARA O PROBLEMA NO SITE)
-
-Dificuldade: Médio<br>
-Problema: [NOME DO PROBLEMA](PROBLEMA NO GIT)<br>
-Codigo: [Solução](CODIGO DO GIT)<br>
-![image](IMAGEM MOSTRANDO RESOLVIDO)
-<br>
-
-### Exercício 4 - [NOME DO PROBLEMA DO SITE](LINK PARA O PROBLEMA NO SITE)
-
-Dificuldade: Médio<br>
-Problema: [NOME DO PROBLEMA](PROBLEMA NO GIT)<br>
-Codigo: [Solução](CODIGO DO GIT)<br>
-![image](IMAGEM MOSTRANDO RESOLVIDO)
-<br>
-
 ## Instalação 
 **Linguagem**: Python<br>
 - O codigo deve ser executado no site do LeetCode em uma classe Solution.
