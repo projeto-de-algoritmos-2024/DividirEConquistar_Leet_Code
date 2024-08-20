@@ -23,5 +23,19 @@ class Solution:
             atual.next = lista1 if lista1 else lista2
             return no_ficticio.next
         
+        def mesclar(lists: List[Optional[ListNode]], esquerda: int, direita: int) -> Optional[ListNode]:
+            if esquerda == direita:
+                return lists[esquerda]
+            if esquerda < direita:
+                meio = (esquerda + direita) // 2
+                lista1 = mesclar(lists, esquerda, meio)
+                lista2 = mesclar(lists, meio + 1, direita)
+                return mesclarDuasListas(lista1, lista2)
+            return None
+        
+        if not lists:
+            return None
+        return mesclar(lists, 0, len(lists) - 1)
+        
         return None
 
