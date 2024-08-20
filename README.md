@@ -24,9 +24,9 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/DividirEConqui
 ### Exercício 2 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 
 Dificuldade: Difícil<br>
-Problema: [Merge k Sorted Lists](PROBLEMA NO GIT)<br>
-Codigo: [Solução](CODIGO DO GIT)<br>
-![image](IMAGEM MOSTRANDO RESOLVIDO)
+Problema: [Merge k Sorted Lists](https://github.com/projeto-de-algoritmos-2024/DividirEConquistar_Leet_Code/blob/master/E2/Merge-k-Sorted-Lists.md)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/DividirEConquistar_Leet_Code/blob/master/E2/Merge-k-Sorted-Lists.py)<br>
+![image](https://github.com/user-attachments/assets/82876b71-b98d-45c0-9f21-b337d8f8a269)
 <br>
 
 ## Instalação 
