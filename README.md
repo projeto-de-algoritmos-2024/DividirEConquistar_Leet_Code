@@ -53,7 +53,7 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/DividirEConqui
 **Obs.:** Faça isso para cada codigo.
 
 ## Outros 
-**Apresentação da resolução dos exercícios:**
+**Apresentação da resolução dos exercícios:** https://youtu.be/Au4ZlMaXKjo
 
 
 
